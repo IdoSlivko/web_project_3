@@ -1,0 +1,26 @@
+.nav__lang {
+	display: flex;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 24px;
+	line-height: 1.15;
+}
+
+@media all and (max-width: 768px) {
+
+	.nav__lang {
+		margin-right: 24px;
+	}
+
+}
+
+@media all and (max-width: 320px) {
+	
+	.nav__lang {
+		margin-right: 16px;
+		font-size: 18px;
+		line-height: 1.1;
+	}
+
+}
