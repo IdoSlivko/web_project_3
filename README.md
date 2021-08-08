@@ -1,6 +1,6 @@
 # From Portland to Portland /
 A Single-Page Website  
-[Link to the project on GitHub Pages](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+[Link to the project on GitHub Pages](https://idoslivko.github.io/web_project_3/)
 
 ---   
 
@@ -10,5 +10,5 @@ A Single-Page Website
 In addition, all the elements are displayed correctly on popular screen sizes.  
 
 ---
-> Technoligies:
+> Technoligies
 * Advenced HTML & CSS
