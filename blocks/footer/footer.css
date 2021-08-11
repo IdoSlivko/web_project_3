@@ -2,6 +2,7 @@
 	display: flex;
 	justify-content: space-between;
 	width: calc(100% - (48px * 2));
+	margin: 0 auto;
 	padding-top: 92px;
 	padding-bottom: 24px;
 }
@@ -15,14 +16,13 @@
 
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
 
 	.footer {
 		flex-direction: column;
 		min-width: 288px;
 		margin: 0 16px;
 		padding-top: 64px;
-		padding-bottom: 24px;
 	}
 
 }

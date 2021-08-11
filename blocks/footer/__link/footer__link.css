@@ -3,12 +3,17 @@
 	margin: 0;
 	padding: 0;
 	font-size: 16px;
-	line-height: 1.1;
+	line-height: 1.12;
 	text-decoration: none;
 	color: #fff;
+	transition: opacity 0.2s linear 0.1s;
 }
 
-@media all and (max-width: 320px) {
+.footer__link:hover {
+	opacity: 80%;
+}
+
+@media all and (max-width: 767px) {
 
 	.footer__link {
 		font-size: 24px;

@@ -16,7 +16,18 @@
 
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
+	
+	.lead__subtitle {
+		max-width: 500px;
+		margin: 24px auto 48px;
+		font-size: 24px;
+		line-height: 1;
+	}
+
+}
+
+@media all and (max-width: 400px) {
 	
 	.lead__subtitle {
 		max-width: 288px;

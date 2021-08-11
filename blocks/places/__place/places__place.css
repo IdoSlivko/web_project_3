@@ -15,7 +15,14 @@
 	.places__place {
 		grid-template-columns: 440px 1fr;
 		grid-gap: 48px 32px;
-		margin-bottom: 80px;
+	}
+
+}
+
+@media all and (max-width: 896px) {
+
+	.places__place {
+		grid-template-columns: 370px auto;
 	}
 
 }
@@ -30,17 +37,7 @@
 
 }
 
-@media all and (max-width: 470px) {
-
-	.places__place {
-		grid-template-columns: 1fr;
-		grid-gap: 48px 28px;
-		margin-bottom: 73px;
-	}
-
-}
-
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
 	
 	.places__place {
 		grid-template-columns: 1fr;
