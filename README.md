@@ -10,5 +10,5 @@ A Single-Page Website
 In addition, all the elements are displayed correctly on popular screen sizes.  
 
 ---
-> Technoligies
+> Technologies
 * Advenced HTML & CSS
