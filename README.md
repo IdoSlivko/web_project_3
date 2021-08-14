@@ -1,5 +1,5 @@
 # From Portland to Portland /
-A Single-Page Website  
+A Single-Page website  
 [Link to the project on GitHub Pages](https://idoslivko.github.io/web_project_3/)
 
 ---   
